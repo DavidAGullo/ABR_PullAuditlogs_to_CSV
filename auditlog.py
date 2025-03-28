@@ -22,7 +22,7 @@ apikey = os.getenv("API_KEY")  # API key for authentication
 auditlog.py
 
 Author: David Gullo
-Date: 2023-10-03
+Date: 2024-03-27
 Version: 1.0
 Description:
 This script connects to an API endpoint to retrieve audit logs and saves them in a CSV format.
