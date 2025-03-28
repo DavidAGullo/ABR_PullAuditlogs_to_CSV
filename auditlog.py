@@ -36,6 +36,8 @@ Dependencies:
     - datetime
     - os
     - sys  
+    - json
+    - dotenv - optional
 """
 
 
